@@ -428,6 +428,15 @@ a.nav-link:hover {
     }
 }
 
+@media (max-width: 440px){
+    #about .abox .image img {
+        width: 100%;
+        display: block;
+        text-align: center;
+    
+    } 
+}
+
 
 
 /* skills section */
@@ -501,7 +510,7 @@ a.nav-link:hover {
 
 @media (max-width: 600px){
     #skill {
-        height: 125vh;
+        height: 127vh;
     }
     #skill .container-skills {
         width: 100%;
