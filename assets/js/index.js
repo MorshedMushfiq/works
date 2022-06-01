@@ -46,7 +46,6 @@
 		$(document).ready(function(){
 			$(".counter1").counterUp({
 				delay: 20,
-				time: 2000
-
+				time: 3000
 			});
 		});
